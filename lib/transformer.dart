@@ -1,6 +1,6 @@
 library transformer;
 
-import 'package:Unit_Transformer/conversion_tables.dart';
+import 'package:unit_transformer/conversion_tables.dart';
 import 'conversion_units.dart';
 
 double convertLength({
