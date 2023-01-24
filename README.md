@@ -5,8 +5,8 @@ Hecho en 🇵🇷 por Radamés J. Valentín Reyes
 ---------------------------
 #Import package
 ~~~dart
-import 'package:Unit_Transformer/conversion_units.dart';
-import 'package:Unit_Transformer/transformer.dart';
+import 'package:unit_transformer/conversion_units.dart';
+import 'package:unit_transformer/transformer.dart';
 ~~~
 ## Length
 ~~~dart
